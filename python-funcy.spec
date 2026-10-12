@@ -1,6 +1,6 @@
 Name:		python-funcy
-Version:	2.0
-Release:	3
+Version:	2.1
+Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/f/funcy/funcy-%{version}.tar.gz
 Summary:	A fancy and practical functional tools library
 URL:		https://pypi.org/project/funcy/
